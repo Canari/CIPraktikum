@@ -1,0 +1,1 @@
+program integer test, test2; string test3; string test4; begin if a > b then a := 1*2+5; fi; b := 1*(2+5); c := 1+2*5; while a <> b do d := 4; od; end
